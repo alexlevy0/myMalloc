@@ -1,2 +1,3 @@
 # myMalloc
-Teck2 EPITECH
+
+C Rewrite malloc, free, realloc 
